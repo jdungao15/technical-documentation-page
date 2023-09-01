@@ -1,0 +1,16 @@
+* {
+  box-sizing: content-box;
+}
+html {
+  font-size: 25px;
+}
+body {
+  display: flex;
+}
+#nav-header {
+  border: 1px solid black;
+}
+main {
+  border: 1px solid black;
+  margin-left: 0.5rem;
+}
